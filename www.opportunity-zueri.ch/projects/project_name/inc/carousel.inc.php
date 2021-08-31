@@ -9,24 +9,24 @@
   </div>
   <div class="carousel-inner mx-auto">
     <div class="carousel-item active">
-      <img src="/projects/js_nutshell/images/kobu-agency-code.jpg" class="d-block w-100"  alt="stock photo of coding from Unsplash">
+      <img src="/projects/project_name/images/babyYoda.gif" class="d-block w-100"  alt="stock photo of coding from Unsplash">
       <div class="carousel-caption d-none d-md-block my-auto">
-        <h3>Opportunity Zürich</h3>
-        <p>Established in Spring of 2021 as part of the bla bla bla program.</p>
+        <h3>Title 1</h3>
+        <p>Description of something.</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="/projects/js_nutshell/images/markus-spiske-code.jpg" class="d-block w-100" alt="stock photo of coding from Unsplash">
+      <img src="/projects/project_name/images/babyYoda.gif" class="d-block w-100" alt="stock photo of coding from Unsplash">
       <div class="carousel-caption d-none d-md-block my-auto">
-        <h3>Challenge</h3>
-        <p>The program has a plan of training front- and back-end web developers over the course of 8 months of intensive learning and group projects.</p>
+        <h3>Title 2</h3>
+        <p>Description of something else.</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="/projects/js_nutshell/images/raeng-uyfoh-code.jpg" class="d-block w-100" alt="stock photo of coding from Unsplash">
+      <img src="/projects/project_name/images/babyYoda.gif" class="d-block w-100" alt="stock photo of coding from Unsplash">
       <div class="carousel-caption d-none d-md-block my-auto">
-        <h3>Dedication</h3>
-        <p>This website is a combined group project to create a library of basic and advanced JavaScript functions.</p>
+        <h3>Title 3</h3>
+        <p>A third description, possibly even better that all previous descriptions.</p>
       </div>
     </div>
   </div>
@@ -39,9 +39,4 @@
     <span class="visually-hidden">Next</span>
   </button>
 </div>
-      
-<script defer>
-
-    console.log(document.getElementById("myHome"));
-    
-</script>
+     
