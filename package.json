@@ -1,21 +1,21 @@
 {
-  "name": "opp-Project_Template",
+  "name": "PHP OOPs",
   "version": "1.0.0",
   "description": "This is a simple LEMP stack setup to use with docker-compose.",
   "main": "index.js",
   "scripts": {
-    "sass:watch": "sass --watch $(pwd)/www.opportunity-zueri.ch/projects/project_name/scss:$(pwd)/www.opportunity-zueri.ch/projects/js_nutshell/css"
+    "sass:watch": "sass --watch $(pwd)/www/projects/oops/scss:$(pwd)/www/projects/oops/css"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/atournikate/Project_Template"
+    "url": "git+https://github.com/atournikate/php-oop"
   },
   "author": "Kate Ebensteiner",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/atournikate/Project_Template/issues"
+    "url": "https://github.com/atournikate/php-oop/issues"
   },
-  "homepage": "https://github.com/atournikate/Project_Template#readme",
+  "homepage": "https://github.com/atournikate/php-oop#readme",
   "devDependencies": {
     "sass": "^1.34.1"
   }
